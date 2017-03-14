@@ -34,4 +34,4 @@ time: 6:00PM
 Presentation
 - Title: Introduction to Nix/NixOS and All That
 - Speaker: Ian-Woo Kim
-- Blog and video recording: https://begriffs.com/posts/2016-08-08-intro-to-nixos.html 
+- [Blog and video recording](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html) thanks to Joe Nelson
